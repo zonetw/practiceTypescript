@@ -1,2 +1,1 @@
-# tsPractice
-Created with CodeSandbox
+
